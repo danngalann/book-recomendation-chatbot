@@ -3,8 +3,13 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 stemmer = PorterStemmer()
 
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
 def tokenize(sentence):
-    return utils.word_tokenize(sentence)
+    return nltk.word_tokenize(sentence)
 
 
 def stem(word):
