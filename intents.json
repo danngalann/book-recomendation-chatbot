@@ -1,0 +1,51 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "capabilities",
+        "patterns": ["What can you do", "Help", "What can you tell me about", "What can you do for me", "How does this work", "How do you work"],
+        "responses": ["I can recommend you books based on categories you ask me about"]
+      },
+      {
+        "tag": "fantasy",
+        "patterns": ["I want books about fantasy", "I want books about fairies, dragons, and magicians", "I want books with magical creatures", "I want books with fantastic worlds"],
+        "responses": ["You should try the Harry Potter series", "Why don't you give 'The Inheritance Cycle' a go?", "The 'His Dark Materials' series is a great read", "I really loved 'Shadow and Bone'"]
+      },
+      {
+        "tag": "scifi",
+        "patterns": ["Do you have anything with science fiction", "I want books about science fiction", "I want books about aliens", "Something with spaceships", "I want books with robots"],
+        "responses": ["The 'Fondation' series is a great read", "'Dune' is a dense series, but a classic.", "'To Sleep in a Sea of Stars' is really interesting"]
+      }
+    ]
+  }
+  
