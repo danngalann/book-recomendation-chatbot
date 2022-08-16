@@ -10,13 +10,7 @@
         "Hello",
         "Good day"
       ],
-      "responses": [
-        "Hey",
-        "Hello there",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
-      ]
+      "responses": ["greeting"]
     },
     {
       "tag": "goodbye",
@@ -28,11 +22,7 @@
         "We're done",
         "See you"
       ],
-      "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
-      ]
+      "responses": ["goodbye"]
     },
     {
       "tag": "thanks",
@@ -48,7 +38,7 @@
         "I love it",
         "I love that book"
       ],
-      "responses": ["Happy to help!", "My pleasure", "No problem", "You are welcome"]
+      "responses": ["thanks"]
     },
     {
       "tag": "capabilities",
@@ -61,9 +51,7 @@
         "How does this work",
         "How do you work"
       ],
-      "responses": [
-        "I can recommend you books based on categories you ask me about"
-      ]
+      "responses": ["capabilities"]
     },
     {
       "tag": "fantasy",
@@ -73,14 +61,16 @@
         "I want books with magical creatures",
         "I want books with fantastic worlds",
         "I'm interested in fantasy",
-        "I'm interested in fairies, dragons, and magicians"
+        "I'm interested in fairies, dragons, and magicians",
+        "Fantasy",
+        "Fairies, dragons, and magicians",
+        "Magicians, wizards and magic",
+        "I like witches",
+        "I'd like a book about witches",
+        "I want a book about magic",
+        "I'm interested in a book with magicians, wizards, magical worlds and fairies"
       ],
-      "responses": [
-        "You should try the Harry Potter series",
-        "Why don't you give 'The Inheritance Cycle' a go?",
-        "The 'His Dark Materials' series is a great read",
-        "I really loved 'Shadow and Bone'"
-      ]
+      "responses": ["fantasy"]
     },
     {
       "tag": "scifi",
@@ -89,13 +79,16 @@
         "I want books about science fiction",
         "I want books about aliens",
         "Something with spaceships",
-        "I want books with robots"
+        "I want books with robots",
+        "I want books with aliens",
+        "I like space and space exploration",
+        "I'd like a book about space",
+        "I'm interested in space, spaceships, and futuristic technology",
+        "I like techonology, robots and AI",
+        "Something with robots",
+        "I'd like a book about futuristic technology"
       ],
-      "responses": [
-        "The 'Foundation' series is a great read",
-        "'Dune' is a dense series, but a classic.",
-        "'To Sleep in a Sea of Stars' is really interesting"
-      ]
+      "responses": ["scifi"]
     },
     {
       "tag": "finance",
@@ -104,13 +97,30 @@
         "I want to learn investing",
         "I'm interested in finance management",
         "I want to invest my money",
-        "I want to manage my money"
+        "I want to manage my money",
+        "I want a book about finance management and making money",
+        "I'm interested in books about investing",
+        "I'd like a book about finance, investing, and money management",
+        "I'm interested in ways to make money and savings",
+        "I want to lean to save money to increase my savings for retirement"
       ],
-      "responses": [
-        "'The Intelligent Investor' is a great read",
-        "'The Richest man in Babylon' is fairly easy to understand",
-        "'The simple path to wealth' is my personal favorite"
-      ]
+      "responses": ["finance"]
+    },
+    {
+      "tag": "selfimprovement",
+      "patterns": [
+        "I want to improve myself",
+        "I want to learn self improvement",
+        "I'm interested in mental health, intrapersonal connections and productivity",
+        "I'd like to know more about anxiety, peace of mind and meditation",
+        "I want to learn about how our brains influence our lifes",
+        "I'm interested in improving my life",
+        "I'm interested in books about self improvement",
+        "I'd like a book about coping with stress and anxiety",
+        "I'm interested in ways to make better decisions",
+        "I want to lean to focus on my goals and improve my life"
+      ],
+      "responses": ["selfimprovement"]
     }
   ]
 }
