@@ -1,0 +1,74 @@
+Hi,greeting
+Hey,greeting
+How are you,greeting
+Is anyone there?,greeting
+Hello,greeting
+Good day,greeting
+Bye,goodbye
+See you later,goodbye
+Goodbye,goodbye
+Ciao,goodbye
+We're done,goodbye
+See you,goodbye
+Thanks,thanks
+Thank you,thanks
+That's helpful,thanks
+Thank's a lot!,thanks
+I will give it a try,thanks
+Im going to try it,thanks
+I will read it,thanks
+That's a good recomendation,thanks
+I love it,thanks
+I love that book,thanks
+What can you do,capabilities
+Help,capabilities
+What can we talk about,capabilities
+What can you tell me about,capabilities
+What can you do for me,capabilities
+How does this work,capabilities
+How do you work,capabilities
+I want books about fantasy,fantasy
+"I want books about fairies, dragons, and magicians",fantasy
+I want books with magical creatures,fantasy
+I want books with fantastic worlds,fantasy
+I'm interested in fantasy,fantasy
+"I'm interested in fairies, dragons, and magicians",fantasy
+Fantasy,fantasy
+"Fairies, dragons, and magicians",fantasy
+"Magicians, wizards and magic",fantasy
+I like witches,fantasy
+I'd like a book about witches,fantasy
+I want a book about magic,fantasy
+"I'm interested in a book with magicians, wizards, magical worlds and fairies",fantasy
+Do you have anything with science fiction,scifi
+I want books about science fiction,scifi
+I want books about aliens,scifi
+Something with spaceships,scifi
+I want books with robots,scifi
+I want books with aliens,scifi
+I like space and space exploration,scifi
+I'd like a book about space,scifi
+"I'm interested in space, spaceships, and futuristic technology",scifi
+"I like techonology, robots and AI",scifi
+Something with robots,scifi
+I'd like a book about futuristic technology,scifi
+I want to make money,finance
+I want to learn investing,finance
+I'm interested in finance management,finance
+I want to invest my money,finance
+I want to manage my money,finance
+I want a book about finance management and making money,finance
+I'm interested in books about investing,finance
+"I'd like a book about finance, investing, and money management",finance
+I'm interested in ways to make money and savings,finance
+I want to lean to save money to increase my savings for retirement,finance
+I want to improve myself,selfimprovement
+I want to learn self improvement,selfimprovement
+"I'm interested in mental health, intrapersonal connections and productivity",selfimprovement
+"I'd like to know more about anxiety, peace of mind and meditation",selfimprovement
+I want to learn about how our brains influence our lifes,selfimprovement
+I'm interested in improving my life,selfimprovement
+I'm interested in books about self improvement,selfimprovement
+I'd like a book about coping with stress and anxiety,selfimprovement
+I'm interested in ways to make better decisions,selfimprovement
+I want to lean to focus on my goals and improve my life,selfimprovement
